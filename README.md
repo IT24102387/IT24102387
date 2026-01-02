@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **kv-audio-backend**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Java**
 
