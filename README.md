@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kusal Kolambage</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=it24102387&label=Profile%20views&color=0e75b6&style=flat" alt="it24102387" /> </p>
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b> About me</b>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=it24102387&label=Profile%20views&color=0e75b6&style=flat" alt="it24102387" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+</p>
+
+<p align="center">
+    <b style="background-color: yellow; padding: 10px; font-size: 36px; text-decoration: underline; border-radius: 5px;">
+        About Me
+    </b>
+</p>
+
 ---
+
 
 - 🔭 I’m currently working on **kv-audio-backend**
 
