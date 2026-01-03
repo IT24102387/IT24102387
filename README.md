@@ -5,10 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=it24102387&label=Profile%20views&color=0e75b6&style=flat" alt="it24102387" />
 </p>
 
-
-
-
-
 ---
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 400px></picture>
