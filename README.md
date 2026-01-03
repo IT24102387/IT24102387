@@ -5,18 +5,13 @@
     <img src="https://komarev.com/ghpvc/?username=it24102387&label=Profile%20views&color=0e75b6&style=flat" alt="it24102387" />
 </p>
 
-<p align="center">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-</p>
 
-<p align="center">
-    <b style="background-color: yellow; padding: 10px; font-size: 36px; text-decoration: underline; border-radius: 5px;">
-        About Me
-    </b>
-</p>
+
+
 
 ---
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 400px></picture>
 
 - 🔭 I’m currently working on **kv-audio-backend**
 
