@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kusal Kolambage</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IT24102387/IT24102387/main/WhatsApp Image 2026-01-03 at 22.45.36.jpeg"  alt="GitHub Banner" 
+       width="1280" height="150">
+</p>
+
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=it24102387&label=Profile%20views&color=0e75b6&style=flat" alt="it24102387" />
