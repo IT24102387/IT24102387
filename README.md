@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IT24102387/IT24102387/main/WhatsApp Image 2026-01-03 at 22.45.36.jpeg"  alt="GitHub Banner" 
+  <img src="https://raw.githubusercontent.com/IT24102387/IT24102387/main/WhatsApp Image 2026-01-03 at 22.45.36.jpeg"  alt="GitHub Banner" //banner
        width="1280" height="250">
 </p>
 
